@@ -1,2 +1,3 @@
 hello
 ssh signing world
+ssh-add -L test
